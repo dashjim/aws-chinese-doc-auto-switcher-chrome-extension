@@ -7,8 +7,12 @@ Simple Chrome extension that automatically redirect your AWS pages to the Chines
 * Load the folder.
 
 # How to test?
-Try to open `https://aws.amazon.com/about-aws/` and you will be redirected to `https://amazonaws-china.com/cn/about-aws/`. Other documents page will also get automatical redirecton.
+Try to open `https://aws.amazon.com/about-aws/` and you will be redirected to `https://amazonaws-china.com/cn/about-aws/`. 
 
+Other document pages will also get automatical redirecton.
+
+# How to disable?
+For temperay disable the auto redirection I suggest you turn to another brower like IE or Firefox. Or you you need to disable it in `chrome://extension`. There is no plan to add this feature to extesion itself now.
 
 Pull request is welcoming.
 
