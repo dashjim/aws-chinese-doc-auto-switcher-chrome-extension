@@ -12,8 +12,8 @@ Try to open `https://aws.amazon.com/about-aws/` and you will be redirected to `h
 Other document pages will also get automatical redirecton.
 
 # How to disable?
-For temperay disable the auto redirection I suggest you turn to another brower like IE or Firefox. Or you you need to disable it in `chrome://extension`. There is no plan to add this feature to extesion itself now.
+To temporarily disable the auto redirection I suggest you turn to another brower like IE or Firefox. Or you you need to disable it in `chrome://extension`. There is no plan to add this feature to extesion itself now.
 
-Pull request is welcoming.
+Pull request is welcoming to enhance the feature.
 
 Apache 2.0 License
