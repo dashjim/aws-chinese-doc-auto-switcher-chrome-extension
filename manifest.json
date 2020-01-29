@@ -3,7 +3,7 @@
   "version": "0.1",
   "manifest_version": 2,
   "description":
-      "Switch to Chinese version of AWS doc if possible.",
+      "Switch to Chinese version of AWS doc if possible. Source code is here: https://github.com/dashjim/aws-chinese-doc-auto-switcher-chrome-extension",
   "permissions": [
     "tabs"
   ],
