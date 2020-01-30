@@ -14,6 +14,11 @@ chrome.tabs.onUpdated.addListener(
            chrome.tabs.update(tab.id, {url: myNewUrl});
            return;
     }
+    if (currentUrl.includes("https://amazonaws-china.com") && !currentUrl.includes("/cn/")) {
+           var myNewUrl = tabUrl.replace("aws.amazon.com", "amazonaws-china.com/cn");
+           chrome.tabs.update(tab.id, {url: myNewUrl});
+           return;
+    }
   }
 );
 
