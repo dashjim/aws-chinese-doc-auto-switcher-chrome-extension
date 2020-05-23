@@ -16,4 +16,5 @@ To temporarily disable the auto redirection I suggest you turn to another brower
 
 Pull request is welcoming to enhance the feature.
 
+
 Apache 2.0 License
